@@ -2,7 +2,7 @@
 
 > Next Portfolio
 
-### Access the aplication on your browser: (https://react-portfolio-psi-lilac.vercel.app/)
+### Access the aplication on your browser: (https://next-ecommerce-henna-three.vercel.app/)
 
 ## 💻 How it works
 
